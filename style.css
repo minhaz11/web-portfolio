@@ -3,8 +3,24 @@ body{
 }
 h1{
     font-size: 50px;
-    
 }
 span{
     color: orange;
 }
+section.first{
+    background-image: url("images/top-banner.png");
+    height: 500px;
+    background-repeat: no-repeat; 
+    background-size: contain;
+}
+.half{
+    
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
+.half img{
+    width: 100%;
+}
+
